@@ -1,0 +1,15 @@
+netsh wlan set hostednetwork mode=allow ssid=lvpan21 key=lvpanjiantt
+
+
+netsh wlan start hostednetwork
+
+netsh wlan stop hostednetwork
+
+
+½øÈëangular-phonecatÄ¿Â¼
+git checkout -f step-0
+
+
+
+
+httpd.exe -w -n "apache2.4" -k start
